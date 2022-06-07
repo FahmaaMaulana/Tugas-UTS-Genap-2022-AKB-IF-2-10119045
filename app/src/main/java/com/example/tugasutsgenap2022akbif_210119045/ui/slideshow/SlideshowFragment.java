@@ -1,5 +1,7 @@
 package com.example.tugasutsgenap2022akbif_210119045.ui.slideshow;
-
+//<!--//NIM   : 10119045-->
+// <!--//NAMA  : Fahma Maulana-->
+// <!--//KELAS : IF-2 -->
 import android.content.Context;
 import android.os.Bundle;
 import android.view.LayoutInflater;

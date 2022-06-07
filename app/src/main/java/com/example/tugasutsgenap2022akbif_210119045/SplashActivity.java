@@ -2,6 +2,9 @@ package com.example.tugasutsgenap2022akbif_210119045;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+//<!--//NIM   : 10119045-->
+// <!--//NAMA  : Fahma Maulana-->
+// <!--//KELAS : IF-2 -->
 
 public class SplashActivity extends Activity {
 

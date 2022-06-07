@@ -15,6 +15,9 @@ import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.tugasutsgenap2022akbif_210119045.databinding.ActivityMainBinding;
+//<!--//NIM   : 10119045-->
+// <!--//NAMA  : Fahma Maulana-->
+// <!--//KELAS : IF-2 -->
 
 public class MainActivity extends AppCompatActivity {
 

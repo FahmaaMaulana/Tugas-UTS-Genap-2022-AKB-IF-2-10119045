@@ -5,5 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".SplashActivity">
+    //<!--//NIM   : 10119045-->
+    // <!--//NAMA  : Fahma Maulana-->
+    // <!--//KELAS : IF-2 -->
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -6,6 +6,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".ui.slideshow.SlideshowFragment">
+    //<!--//NIM   : 10119045-->
+    // <!--//NAMA  : Fahma Maulana-->
+    // <!--//KELAS : IF-2 -->
 
     <androidx.viewpager.widget.ViewPager
         android:id="@+id/viewpager"

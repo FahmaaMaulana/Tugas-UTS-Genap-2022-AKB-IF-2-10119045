@@ -7,6 +7,9 @@
     android:orientation="vertical"
     android:padding="10dp"
     android:gravity="center">
+    //<!--//NIM   : 10119045-->
+    // <!--//NAMA  : Fahma Maulana-->
+    // <!--//KELAS : IF-2 -->
 
     <ImageView
         android:id="@+id/image"

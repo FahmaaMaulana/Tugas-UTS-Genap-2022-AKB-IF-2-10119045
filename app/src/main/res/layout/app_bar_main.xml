@@ -5,6 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
+    //<!--//NIM   : 10119045-->
+    // <!--//NAMA  : Fahma Maulana-->
+    // <!--//KELAS : IF-2 -->
 
     <com.google.android.material.appbar.AppBarLayout
         android:layout_width="match_parent"
